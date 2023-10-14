@@ -16,7 +16,7 @@ public class anagram {
             for (int i = 0; i < arr1.length; i++) {
                 arr1[i] = a.charAt(i);
                 arr2[i] = b.charAt(i);
-                char temp;
+
             }
             for (int i = arr1.length - 1; i > 0; i--) {
                 for (int j = 0; j < i; j++) {
@@ -53,5 +53,6 @@ public class anagram {
             System.out.println("true");
         }else
             System.out.println("false");
+        System.out.println("BALONDER AWARD IS THE BEST OK");
     }
 }
