@@ -53,6 +53,6 @@ public class anagram {
             System.out.println("true");
         }else
             System.out.println("false");
-        System.out.println("BALONDER AWARD IS THE BEST OK");
+        System.out.println("BALONDER AWARD is a balloon filled with helium");
     }
 }
