@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=P6
+comment1.params=time
+comment1.target=P6(int)
+comment2.params=
+comment2.target=int\ getWage()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

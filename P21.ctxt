@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=P21
+comment1.params=n
+comment1.target=void\ generate(int)
+comment2.params=start\ end
+comment2.target=void\ generate(int,\ int)
+comment3.params=num
+comment3.target=boolean\ checkPrime(int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
